@@ -1,4 +1,8 @@
 ---
+genres:
+  - action
+  - adventure
+  - rpg
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
 
